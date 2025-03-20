@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Enterprise Computing Assignment 2 by Sandra M Vera G
+          TECH 2102 Enterprise Computing - Assignment 2 by Sandra Vera
         </p>
       </header>
     </div>
